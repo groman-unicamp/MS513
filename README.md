@@ -32,7 +32,7 @@ entender código será nossa principal forma de comunicação.
 
 ## Logística do curso
 
-As aulas serão terças e quintas às 10h na sala 150 do IMECC. Durante as aulas
+As aulas serão terças e quintas às 10h no laboratório IM03 do IMECC (no Anexo II). Durante as aulas
 apresentarei cadernos Julia com código e discutirei os problemas que vamos
 estudar empregando técnicas modernas de programação e matemática aplicada para
 atacá-los. Além disso, temos o servidor Discord da disciplina onde podemos
