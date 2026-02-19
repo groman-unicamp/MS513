@@ -2,25 +2,36 @@
 
 ## About this material / Sobre esse material
 
-This repository is based on the course material from
+This repository is based on the course material
+on the course material "Laboratorio de computação cientifica - MS513" of prof. Paulo J Silva (UNICAMP/Imecc/DMA)
+available at [Github](https://github.com/pjssilva/LabCompSci)
+
+
+that has been adapted from the course
 ["Computational Thinking, a live online Julia/Pluto textbook](https://computationalthinking.mit.edu/)
 that is available at [Github](https://github.com/mitmath/18S191).
 
-Let me start by thanking deeply the original authors, profs. Alan
-Edelman, David P. Sanders, Charles E. Leiserson, Henri F. Drake, Teaching
-Assistant Bola Malek, and Techinical Assistants Fons van der Plas, Logan
-Kilpatrick for making available such wonderful material under a Creative Commons
-Licence that allows remix the original content.
 
-Esse repositório é baseado no material de
+Let me start by thanking prof. Paulo J Silva and the original authors, profs. Alan
+Edelman, David P. Sanders, Charles E. Leiserson, Henri F. Drake, Teaching
+Assistant Bola Malek, and Technical Assistants Fons van der Plas, Logan
+Kilpatrick for making available such wonderful material under a Creative Commons Licence that allows remix the original content.
+
+Esse repositório é baseado no material 
+do curso "Laboratório de computação cientifica - MS513" de Paulo J Silva (UNICAMP/Imecc/DMA)
+que está disponível em  [Github](https://github.com/pjssilva/LabCompSci)
+e do curso original do MIT
 ["Computational Thinking, a live online Julia/Pluto textbook](https://computationalthinking.mit.edu/)
 que está disponível no [Github](https://github.com/mitmath/18S191).
 
-Deixo aqui um enorme agradecimento aos autores originais, professores Alan
+
+Deixo aqui um enorme agradecimento a Paulo J Silva 
+e aos autores originais, professores Alan
 Edelman, David P. Sanders, Charles E. Leiserson, Henri F. Drake, assistente
 de ensino Bola Malek e os auxiliares técnicos Fons van der Plas, Logan
-Kilpatrick por criarem esse material sob uma licença aberta que permite a sua
-adaptação e re-uso.
+Kilpatrick por criarem esse material sob uma licença aberta que permite a sua adaptação e re-uso.
+
+
 
 ## O curso
 
@@ -32,31 +43,27 @@ entender código será nossa principal forma de comunicação.
 
 ## Logística do curso
 
-As aulas serão terças e quintas às 10h no laboratório IM03 do IMECC (no Anexo II). Durante as aulas
-apresentarei cadernos Julia com código e discutirei os problemas que vamos
-estudar empregando técnicas modernas de programação e matemática aplicada para
-atacá-los. Além disso, temos o servidor Discord da disciplina onde podemos
-interagir em fóruns. O link do servidor [Discord](https://discord.gg/aCgPCHnj4E).
+As aulas serão terças e quintas no horário  10-12h no laboratório IM03 do IMECC (no Anexo II).
+Durante as aulas apresentarei cadernos Julia com código e discutirei os problemas que vamos
+estudar empregando técnicas de programação e matemática aplicada para atacá-los. 
 
 ## Detalhes burocráticos
 
 ### Atendimento
 
-Quintas 13-14h, sala 116, IMECC ou atendimento pessoal sob demanda a combinar
-com o(a) aluno(a).
+Quartas 13-14h, sala 116, IMECC 
+ou atendimento online no Classroom da disciplina 
+ou pessoal sob demanda a combinar com o(a) aluno(a).
 
 ### Avaliação
 
-Será feita por trabalhos computacionais durante o semestre e duas provas
-presenciais no laboratório.
+Será feita por trabalhos computacionais durante o semestre e duas provas presenciais no laboratório.
 
-No primeiro semestre de 2026 as datas das provas são **23/04 e 23/06** ?.
+No primeiro semestre de 2026 as datas das provas são **23/04 e 18/06**.
 
-Médias: Definimos `ME` = "média aritméticas das listas descartando as duas
-piores notas", e `MP` = "média aritmética das provas". A média ao final do
-semestre será `M = 0.7*ME + 0.3*MP` ?, se `MP >= 5`, caso contrário `M = MP`. Se
-`M >= 5`, o aluno está aprovado. Se `2.0 <= M < 5.0`, o aluno deverá fazer o
-exame no dia **14/07** ?. A média final será então `max(M, 0.5*M + 0.5*Exame)`. Se
+Médias: Definimos `ME` = "média aritméticas das listas", e `MP` = "média aritmética das provas". A média ao final do
+semestre será `M = 0.6*ME + 0.4*MP`, se `MP >= 5`, caso contrário `M = MP`. Se
+`M >= 5`, o aluno está aprovado. Se `2.0 <= M < 5.0`, o aluno deverá fazer o exame no dia **14/07**. A média final será então `MF = max(M, 0.5*M + 0.5*Exame)`. Se
 `MF >= 5.0`, o aluno estará aprovado.
 
 ### Ementa 
@@ -121,7 +128,7 @@ e fazer modificações ao longo da discussão.
 
 ### Pré-requisitos 
 
-MC102, MS211
+MS211
 
 ### Alunos PCD ou com necessidades de acomodação didático pedagógicas
 
@@ -134,5 +141,4 @@ necessitem de acomodações didático-pedagógicas podem solicitar atendimento
 educacional especializado por meio do [Programa de Atendimento Educacional
 Especializado
 (PAEE).](https://deape.unicamp.br/vida-estudantil/acessibilidade-pedagogica/paee/)
-Caso tenha dúvidas ou precise de orientações, entre em contato pelo e-mail:
-`paee@unicamp.br`.
+Caso tenha dúvidas ou precise de orientações, entre em contato pelo e-mail: `paee@unicamp.br`.
