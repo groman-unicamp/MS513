@@ -25,7 +25,7 @@ e do curso original do MIT
 que está disponível no [Github](https://github.com/mitmath/18S191).
 
 
-Deixo aqui um enorme agradecimento a Paulo J Silva 
+Deixo aqui os meus agradecimentos a Paulo J Silva 
 e aos autores originais, professores Alan
 Edelman, David P. Sanders, Charles E. Leiserson, Henri F. Drake, assistente
 de ensino Bola Malek e os auxiliares técnicos Fons van der Plas, Logan
