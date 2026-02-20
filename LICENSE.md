@@ -1,4 +1,4 @@
-O material desse repsitório mantém a licença do código e texto originais:
+O material desse repositório mantém a licença do código e texto originais:
 
 - O **código** está sob a [licença MIT](https://opensource.org/licenses/MIT).
 
